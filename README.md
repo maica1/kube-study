@@ -6,11 +6,12 @@ Repo for my CKA Study
 
 + Linuxtips Bonde do CKA
 + Mumshad Mannambeth udemy course
++ Kubernetes THW by kelseyhightower( current branch )
 
 ## tools used:
 
-+ minikube
-+ kubectl
++ vagrant
++ VirtualBox
 
 ## Kubernetes significant ports:
 
